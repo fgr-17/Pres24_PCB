@@ -1,4 +1,5 @@
-Pres24_LPC
+Pres24_PCB
 ==========
 
-Software LPC1769 - Proyecto de Adquisidor de Presión Portátil
+Proyecto PCB - Proyecto de Adquisidor de Presión Portátil
+Plataforma : Altium 2010
