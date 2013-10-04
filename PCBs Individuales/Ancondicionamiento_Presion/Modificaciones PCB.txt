@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-                            Modificaciones PCB:
+                            Modificaciones PCB Final:
 --------------------------------------------------------------------------------
 - Reemplazo U1 por versión SMD.
 - Reemplazo U2 por versión SMD.
