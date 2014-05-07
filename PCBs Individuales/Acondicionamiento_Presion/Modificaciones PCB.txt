@@ -1,5 +1,13 @@
+<<<<<<< HEAD:PCBs Individuales/Acondicionamiento_Presion/Modificaciones PCB.txt
 --------------------------------------------------------------------------------
                             Modificaciones PCB:
 --------------------------------------------------------------------------------
 - Reemplazo U1 por versión SMD.
 - Reemplazo U2 por versión SMD.
+=======
+--------------------------------------------------------------------------------
+                            Modificaciones PCB Final:
+--------------------------------------------------------------------------------
+- Reemplazo U1 por versión SMD.
+- Reemplazo U2 por versión SMD.
+>>>>>>> 494a36e67ace36581addfc7f7ac9813a7544cbac:PCBs Individuales/Ancondicionamiento_Presion/Modificaciones PCB.txt
