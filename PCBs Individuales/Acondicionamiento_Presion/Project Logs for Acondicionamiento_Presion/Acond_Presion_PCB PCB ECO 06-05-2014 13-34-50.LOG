@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Cr1 Old Footprint=AXIAL-0.3 New Footprint=6-0805_M
+Change Component Footprint: Designator=Cr2 Old Footprint=AXIAL-0.3 New Footprint=6-0805_M
+Change Component Footprint: Designator=C8 Old Footprint=RAD-0.3 New Footprint=6-0805_M
+Change Component Footprint: Designator=C9 Old Footprint=RAD-0.3 New Footprint=6-0805_M
+Added Pin To Net: NetName=GND Pin=U2-11

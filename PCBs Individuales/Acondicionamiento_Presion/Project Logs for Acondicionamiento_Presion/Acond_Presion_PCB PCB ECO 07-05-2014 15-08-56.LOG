@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=VREF Pin=C14-2
+Removed Pin From Net: NetName=VREF Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=VREF Pin=U1-5
+Removed Pin From Net: NetName=VREF Pin=U2-3
+Added Component: Designator=PREF1(HDR1X3)
+Added Component: Designator=PREF1(HDR1X3)
+Added Component: Designator=PREF1(HDR1X3)
+Added Component: Designator=PREF2(HDR1X3)
+Added Component: Designator=PREF3(HDR1X3)
+Added Pin To Net: NetName=GND Pin=PREF1-1
+Added Pin To Net: NetName=GND Pin=PREF1-1
+Added Pin To Net: NetName=GND Pin=PREF1-1
+Added Pin To Net: NetName=VREF Pin=PREF1-3
+Added Pin To Net: NetName=VREF Pin=PREF1-3
+Added Pin To Net: NetName=VREF Pin=PREF1-3
+Added Pin To Net: NetName=GND Pin=PREF2-1
+Added Pin To Net: NetName=VREF Pin=PREF2-3
+Added Pin To Net: NetName=GND Pin=PREF3-1
+Added Pin To Net: NetName=VREF Pin=PREF3-3
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=PREF1-2
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=PREF2-2
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=PREF3-2
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetPREF1_2 Pin=PREF1-2
+Added Pin To Net: NetName=NetPREF1_2 Pin=U2-3
+Added Net: Name=NetPREF1_2
+Added Member To Class: ClassName=Acondicionamiento_Snl Member=Component PREF1 Header 3
+Added Member To Class: ClassName=Acondicionamiento_Snl Member=Component PREF2 Header 3
+Added Member To Class: ClassName=Acondicionamiento_Snl Member=Component PREF3 Header 3

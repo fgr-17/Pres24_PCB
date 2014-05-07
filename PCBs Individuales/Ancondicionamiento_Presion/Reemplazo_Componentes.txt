@@ -1,9 +1,0 @@
-Reemplazo de Componentes:
-
--------------------------------------------------------------------------------------------------------------
-    Componente original      |         Reemplazo          |                   Causa
--------------------------------------------------------------------------------------------------------------
-- AD620                             - INA122                    AD620 no funciona bien con fuente simple.
-                                                                El INA122 si, y se consigue en Microelectrónica.
-
-- OP291                             - MC34034                   Disponibilidad
