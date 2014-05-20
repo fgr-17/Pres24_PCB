@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=C17-1
-Removed Pin From Net: NetName=GND Pin=C17-2
-Removed Pin From Net: NetName=GND Pin=C27-1
-Removed Pin From Net: NetName=GND Pin=C27-2
-Removed Member From Class: ClassName=Acondicionamiento_Presion Member=C17
-Removed Member From Class: ClassName=Acondicionamiento_Presion Member=C27

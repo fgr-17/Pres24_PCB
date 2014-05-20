@@ -1,0 +1,14 @@
+"Bill of Material for "
+"On 18/05/2014 at 11:20:20 p.m."
+
+"Comment","Pattern","Quantity","Components"
+
+"15-43-8564","15-43-8564","1","Jen","Right Angle, Standard Profile, Unshielded PCB Jack"
+"AD620 / INA122","N-8","1","U1","Low-Cost, Low-Power Instrumentation Amplifier"
+"Cap","6-0805_M","14","C3, C4, C5, C6, C7, C8, C9, C12, C14, C15, C16, C19, Cr1, Cr2","Capacitor"
+"Header 2","HDR1X2","4","CnVCC, Pen, POS, Psal","Header, 2-Pin"
+"Header 3","HDR1X3","5","PREF0, PREF1, PREF2, PREF3, PREF4","Header, 3-Pin"
+"MC34074","Q-14","1","U2","Quad Precision Low Cost High-Speed BiFET Operational Amplifier"
+"Preset","Preset Largo","3","P1, P2, PG","Rectangular/Multiturn/Trimming Potentiometer"
+"Res1","6-0805_L","16","R1, R2, R3, R4, R5, R6, R8, R11, R14, R18, R21, R23, R24, R25, Ra, Rb","Resistor"
+"Volt Reg","TO-220-AB","1","Reg - TO220","Voltage Regulator"

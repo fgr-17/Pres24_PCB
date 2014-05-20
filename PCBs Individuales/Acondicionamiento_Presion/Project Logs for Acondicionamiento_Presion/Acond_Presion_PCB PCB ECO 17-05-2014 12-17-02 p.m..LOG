@@ -1,0 +1,5 @@
+Added Component: Designator=POS(HDR1X2)
+Added Pin To Net: NetName=NetR6_1 Pin=POS-1
+Added Pin To Net: NetName=C9_CAP_GND Pin=U2-11
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetPOS_1
+Added Member To Class: ClassName=Acondicionamiento_Snl Member=Component POS Header 2
